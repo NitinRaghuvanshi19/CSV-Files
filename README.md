@@ -10,7 +10,7 @@ This repository contains a collection of CSV datasets that can be freely used fo
 - Helpful for students, researchers, and practitioners exploring **Machine Learning, Data Analytics, and Data Science**.  
 
 ## 🔹 Usage  
-1. Clone the repository or download the required CSV file:  
+1. Clone the repository or download the required CSV file:    
    ```bash
    git clone https://github.com/<your-username>/CSV-Files.git
 ````
