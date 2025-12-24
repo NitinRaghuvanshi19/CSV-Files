@@ -7,7 +7,7 @@ This repository contains a collection of CSV datasets that can be freely used fo
 ## 🔹 About     
 - The datasets are uploaded in CSV format for easy access.        
 - Suitable for tasks such as data preprocessing, visualization, feature engineering, and model building.  
-- Helpful for students, researchers, and practitioners exploring **Machine Learning, Data Analytics, and Data Science**.  
+- Helpful for students, researchers, and practitioners exploring **Machine Learning, Data Analytics, and Data Science**.    
 
 ## 🔹 Usage  
 1. Clone the repository or download the required CSV file:    
